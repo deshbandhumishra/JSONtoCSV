@@ -1,0 +1,33 @@
+{
+  "cntctPhnNum": "1234567890",
+  "firstName": "Johny",
+  "lastName": "Hilton",
+  "lastUpdtdDt": "05/13/2020",
+  "pk": {
+    "id": "100000979"
+  },
+  "addresses": [
+    {
+      "adrCityNm": "BEND",
+      "adrStrLine1Txt": "1234 INTERNATIONAL STREET",
+      "cntryCd": "USA",
+      "geoStCd": "NV",
+      "pk": {
+        "adrTypeCd": "M",
+        "id": "100000979"
+      },
+      "pstlCd": "48853"
+    },
+    {
+      "adrCityNm": "LOS ANGELES",
+      "adrStrLine1Txt": "123 LOS ANGELES DR",
+      "cntryCd": "USA",
+      "geoStCd": "CA",
+      "pk": {
+        "adrTypeCd": "P",
+        "id": "100000979"
+      },
+      "pstlCd": "45467"
+    }
+  ]
+}
